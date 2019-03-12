@@ -45,8 +45,7 @@ The test imageset BSD500 is built from the Berkeley segmentation dataset [[Proje
 
 ## Authors
 
-* **Li Dong** - [Homepage](http://www.escience.cn/people/dongli90/index.html) - Email: dongli@nbu.edu.cn & yb47452@umac.mo.
-* **Jiantao Zhou** - [Homepage](http://www.fst.umac.mo/en/staff/jtzhou.html) - Email: jtzhou@umac.mo.
+* **Li Dong** - [Homepage](http://www.escience.cn/people/dongli90/index.html) - Email: dongli@nbu.edu.cn
 
 ## License
 
